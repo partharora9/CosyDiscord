@@ -2,7 +2,6 @@ import { NavigationAction } from "./navigation-action";
 import { NavigationItem } from "./navigation-item";
 import { Separator } from "@/components/ui/separator";
 import { ScrollArea } from "@/components/ui/scroll-area";
-import { UserButton } from "@/components/auth/user-button";
 
 // Mock data until DB is connected
 const servers = [
